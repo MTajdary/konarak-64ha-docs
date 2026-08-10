@@ -9,13 +9,13 @@
 
 ---
 
-## 📍 لینک مستندات کامل تصویری - نسخه نهایی
+## 📍 لینک مستندات کامل تصویری
 
 ### 👉 **[https://mtajdary.github.io/konarak-64ha-docs/](https://mtajdary.github.io/konarak-64ha-docs/)**
 
 **مستقیم:** `https://mtajdary.github.io/konarak-64ha-docs/`
 
-**مختصات دقیق و قابل کلیک:**
+**مختصات دقیق :**
 - **Google Maps:** [25.376597, 60.392980 - مشاهده موقعیت](https://www.google.com/maps/place/25.376597,+60.392980/@25.3773739,60.3939734,16z/data=!4m4!3m3!8m2!3d25.3765972!4d60.3929795)
 - **لینک مستقیم مختصات:** [https://www.google.com/maps/search/?api=1&query=25.376597,60.392980](https://www.google.com/maps/search/?api=1&query=25.376597,60.392980)
 - **کد مختصات:** `25.376597, 60.392980`

@@ -1,1 +1,3 @@
-
+User-agent: *
+Allow: /
+Sitemap: https://mtajdary.github.io/konarak-64ha-docs/sitemap.xml

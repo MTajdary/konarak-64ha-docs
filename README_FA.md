@@ -1,107 +1,61 @@
-<!DOCTYPE html><html data-dpl-id="dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" lang="en" class="optimisticai_d4925249-module__WZtcjq__variable optimisticmono_9b82a078-module__hMSRWa__variable light"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" as="image" href="https://img.shields.io/badge/%D9%85%D9%88%D9%82%D8%B9%DB%8C%D8%AA-25.376597%2C%2060.392980-D4AF37"/><link rel="preload" as="image" href="https://img.shields.io/badge/%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-70.03%25-00ff88"/><link rel="preload" as="image" href="https://img.shields.io/badge/%D9%85%D8%B3%D8%A7%D8%AD%D8%AA-64%20%D9%87%DA%A9%D8%AA%D8%A7%D8%B1-D4AF37"/><link rel="preload" as="image" href="https://img.shields.io/badge/%D8%AE%D8%A7%DA%A9%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-120%D9%87%D8%B2%D8%A7%D8%B1%20%D9%85%C2%B3-ffaa00"/><link rel="preload" as="image" href="https://img.shields.io/badge/%D8%AA%D8%B1%D8%A7%DA%A9%D9%85-100%25%20(99%25%20%D9%88%20101%25)-success"/><link rel="stylesheet" href="/_next/static/chunks/0mcs_poiiru-q.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" data-precedence="next"/><link rel="stylesheet" href="/_next/static/chunks/0zuzojn6iq62k.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" data-precedence="next"/><link rel="stylesheet" href="/_next/static/chunks/2tblhxnx5eynz.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" data-precedence="next"/><link rel="stylesheet" href="/_next/static/chunks/287l5xq35imjj.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" data-precedence="next"/><link rel="stylesheet" href="/_next/static/chunks/2jjy6o95vbpj2.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/2itn9ngb6p3qo.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk"/><script src="/_next/static/chunks/3owt_rqvfeo8e.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" async=""></script><script src="/_next/static/chunks/3iea3-s3zypmn.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" async=""></script><script src="/_next/static/chunks/turbopack-15_1yxm4kyg4y.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" async=""></script><script src="/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" async=""></script><script src="/_next/static/chunks/1iz7o0_0nhsj0.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" async=""></script><script src="/_next/static/chunks/00v-gn59_u31t.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" async=""></script><script src="/_next/static/chunks/1hgne56kqq79v.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" async=""></script><meta name="next-size-adjust" content=""/><meta name="sentry-trace" content="5aed4330cbc427bb4d0261b889708e1f-8e2b4fd14cf339b4-1"/><meta name="baggage" content="sentry-environment=production,sentry-release=add7a9ee49adf00337972d97117462182e8b3180,sentry-public_key=217336c598020d63d1a44137ff8fdb71,sentry-trace_id=5aed4330cbc427bb4d0261b889708e1f,sentry-org_id=4509963614355457,sentry-transaction=GET%20%2Fmarkdown,sentry-sampled=true,sentry-sample_rand=0.012385699594632538,sentry-sample_rate=0.1"/><script src="/_next/static/chunks/0cz1d0mv5g_q7.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" noModule=""></script></head><body><div hidden=""><!--$--><!--/$--></div><div class="min-h-dvh"><div class="mx-auto max-w-[800px] px-6 pt-8 pb-8 lg:pt-[72px]"><div dir="auto" class="ur-markdown prose"><div class="space-y-4 whitespace-normal [&amp;&gt;*:first-child]:mt-0 [&amp;&gt;*:last-child]:mb-0 mb-4 flex flex-col gap-6"><h1 class="mt-6 mb-2 font-semibold text-3xl" data-streamdown="heading-1">پروژه ۶۴ هکتاری نهضت ملی مسکن کنارک - مستندات کارشناس دفتر فنی و نظارت مقیم</h1>
-<p><a href="https://www.google.com/maps/place/25.376597,+60.392980/" target="_blank" rel="noopener noreferrer" node="[object Object]"><div class="group relative my-4 inline-block" data-streamdown="image-wrapper"><img alt="موقعیت" class="max-w-full rounded-lg" data-streamdown="image" src="https://img.shields.io/badge/%D9%85%D9%88%D9%82%D8%B9%DB%8C%D8%AA-25.376597%2C%2060.392980-D4AF37"/><div class="pointer-events-none absolute inset-0 hidden rounded-lg bg-black/10 group-hover:block"></div></div></a><br/>
-<span title="Blocked URL: " class="text-gray-500"><div class="group relative my-4 inline-block" data-streamdown="image-wrapper"><img alt="پیشرفت" class="max-w-full rounded-lg" data-streamdown="image" src="https://img.shields.io/badge/%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-70.03%25-00ff88"/><div class="pointer-events-none absolute inset-0 hidden rounded-lg bg-black/10 group-hover:block"></div></div> [blocked]</span><br/>
-<span title="Blocked URL: " class="text-gray-500"><div class="group relative my-4 inline-block" data-streamdown="image-wrapper"><img alt="مساحت" class="max-w-full rounded-lg" data-streamdown="image" src="https://img.shields.io/badge/%D9%85%D8%B3%D8%A7%D8%AD%D8%AA-64%20%D9%87%DA%A9%D8%AA%D8%A7%D8%B1-D4AF37"/><div class="pointer-events-none absolute inset-0 hidden rounded-lg bg-black/10 group-hover:block"></div></div> [blocked]</span><br/>
-<span title="Blocked URL: " class="text-gray-500"><div class="group relative my-4 inline-block" data-streamdown="image-wrapper"><img alt="خاکبرداری" class="max-w-full rounded-lg" data-streamdown="image" src="https://img.shields.io/badge/%D8%AE%D8%A7%DA%A9%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-120%D9%87%D8%B2%D8%A7%D8%B1%20%D9%85%C2%B3-ffaa00"/><div class="pointer-events-none absolute inset-0 hidden rounded-lg bg-black/10 group-hover:block"></div></div> [blocked]</span><br/>
-<span title="Blocked URL: " class="text-gray-500"><div class="group relative my-4 inline-block" data-streamdown="image-wrapper"><img alt="تراکم" class="max-w-full rounded-lg" data-streamdown="image" src="https://img.shields.io/badge/%D8%AA%D8%B1%D8%A7%DA%A9%D9%85-100%25%20(99%25%20%D9%88%20101%25)-success"/><div class="pointer-events-none absolute inset-0 hidden rounded-lg bg-black/10 group-hover:block"></div></div> [blocked]</span></p>
-<p><span class="font-semibold" data-streamdown="strong"><span title="Blocked URL: README_EN.md" class="text-gray-500">English<!-- --> [blocked]</span> | <span title="Blocked URL: README_AR.md" class="text-gray-500">العربية<!-- --> [blocked]</span> | فارسی</span></p>
-<p><span class="font-semibold" data-streamdown="strong">سایت زنده:</span> <a href="https://mtajdary.github.io/konarak-64ha-docs/" target="_blank" rel="noopener noreferrer" node="[object Object]">https://mtajdary.github.io/konarak-64ha-docs/</a><br/>
-<span class="font-semibold" data-streamdown="strong">درایو (۷ عکس):</span> <a href="https://drive.google.com/file/d/1r8C-vqsXc178faxJNOLwULhxNvOTQrQT/view" target="_blank" rel="noopener noreferrer" node="[object Object]">https://drive.google.com/file/d/1r8C-vqsXc178faxJNOLwULhxNvOTQrQT/view</a><br/>
-<span class="font-semibold" data-streamdown="strong">نویسنده:</span> محمد تاجداری – کارشناس دفتر فنی و نظارت مقیم | <a href="mailto:Mohammadtajdariii@gmail.com" target="_blank" rel="noopener noreferrer" node="[object Object]">Mohammadtajdariii@gmail.com</a></p>
-<h2 class="mt-6 mb-2 font-semibold text-2xl" data-streamdown="heading-2">📍 موقعیت و کلیات</h2>
-<ul class="list-inside list-disc whitespace-normal [li_&amp;]:pl-6" data-streamdown="unordered-list">
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">مختصات:</span> 25.376597, 60.392980 – کنارک، منطقه آزاد چابهار</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">پروژه:</span> نهضت ملی مسکن – آماده‌سازی سایت ۶۴ هکتاری</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">مقیاس:</span> ۴۰۰ واحد قابل توسعه تا ۲۵۰۰ واحد</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">کارفرما:</span> اداره کل راه و شهرسازی جنوب سیستان و بلوچستان</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">مشاور:</span> مهندسین مشاور اتفاق طرح و تدبیر – تاسیس ۱۳۸۶ – ثبت ۳۱۰۶۲۱ – مدیرعامل عباس نایب‌زاده – ۶۲ پروژه – ۱۶۵۲ کیلومتر – ISO 9001:2015</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">پیمانکار:</span> شرکت پورآب تاراز – قرارداد ۱۴۱۹۱ – مبلغ اولیه ۱,۰۳۱,۰۰۹,۱۲۷,۹۳۵ ریال – فهرست بها راه و باند ۱۴۰۲</li>
-</ul>
-<h2 class="mt-6 mb-2 font-semibold text-2xl" data-streamdown="heading-2">👷 نقش اینجانب – تا تیر ۱۴۰۵</h2>
-<p><span class="font-semibold" data-streamdown="strong">سمت:</span> کارشناس دفتر فنی و نظارت مقیم – آخرین مسئول مستندسازی تا تیر ۱۴۰۵<br/>
-<span class="font-semibold" data-streamdown="strong">مدت حضور:</span> ۲۸ دی ۱۴۰۳ تا پایان تیر ۱۴۰۵ – ۱۸ ماه مستمر</p>
-<ul class="list-inside list-disc whitespace-normal [li_&amp;]:pl-6" data-streamdown="unordered-list">
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">نماینده مشاور در کارگاه</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">تهیه گزارشات روزانه و هفتگی مصور (شامل گزارش هفته دوم تیر ۱۴۰۵)</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">کنترل احجام خاکبرداری، خاکریزی، زیرسازی، جدول‌گذاری با نقشه‌ها و فهرست بها</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">تهیه صورت وضعیت و صورت جلسات – صورت وضعیت ۶: ۶۰۰,۹۷۲,۷۸۷,۳۹۶ ریال تایید شده</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">نظارت مقیم: خاکی، زیرسازی، رگلاژ با گریدر کوماتسو GD561A، آب‌پاشی B4 با تانکر ماک، تراکم ۱۰۰٪ مستند ۹۹٪ و ۱۰۱٪</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">مدیریت ماشین‌آلات: ۴ اکیپ + ۱۵ نفر نیروی کارگاهی</li>
-</ul>
-<h2 class="mt-6 mb-2 font-semibold text-2xl" data-streamdown="heading-2">📊 گزارش هفتگی – هفته دوم تیر ۱۴۰۵ (۱۴۰۵/۰۴/۰۶ الی ۱۲) – پیشرفت ۷۰.۰۳٪</h2>
+# پروژه ۶۴ هکتاری نهضت ملی مسکن کنارک - مستندات کارشناس دفتر فنی و نظارت مقیم
 
+[![موقعیت](https://img.shields.io/badge/موقعیت-25.376597%2C%2060.392980-D4AF37)](https://www.google.com/maps/place/25.3743105,+60.3953031/)
+[![پیشرفت](https://img.shields.io/badge/پیشرفت-70.03%25-00ff88)]()
+[![مساحت](https://img.shields.io/badge/مساحت-64%20هکتار-D4AF37)]()
+[![خاکبرداری](https://img.shields.io/badge/خاکبرداری-120هزار%20م³-ffaa00)]()
+[![تراکم](https://img.shields.io/badge/تراکم-100%25%20(99%25%20و%20101%25)-success)]()
 
+**[English](README_EN.md) | [العربية](README_AR.md) | فارسی**
 
+**سایت زنده:** https://mtajdary.github.io/konarak-64ha-docs/  
+**درایو (۷ عکس):** https://drive.google.com/file/d/1r8C-vqsXc178faxJNOLwULhxNvOTQrQT/view  
+**نویسنده:** محمد تاجداری – کارشناس دفتر فنی و نظارت مقیم | Mohammadtajdariii@gmail.com
 
+## 📍 موقعیت و کلیات
+- **مختصات:** 25.3743105, 60.3953031 – کنارک، منطقه آزاد چابهار
+- **پروژه:** نهضت ملی مسکن – آماده‌سازی سایت ۶۴ هکتاری
+- **مقیاس:** ۴۰۰ واحد قابل توسعه تا ۲۵۰۰ واحد
+- **کارفرما:** اداره کل راه و شهرسازی جنوب سیستان و بلوچستان
+- **مشاور:** مهندسین مشاور اتفاق طرح و تدبیر – تاسیس ۱۳۸۶ – ثبت ۳۱۰۶۲۱ – مدیرعامل عباس نایب‌زاده – ۶۲ پروژه – ۱۶۵۲ کیلومتر – ISO 9001:2015
+- **پیمانکار:** شرکت پورآب تاراز – قرارداد ۱۴۱۹۱ – مبلغ اولیه ۱,۰۳۱,۰۰۹,۱۲۷,۹۳۵ ریال – فهرست بها راه و باند ۱۴۰۲
 
+## 👷 نقش اینجانب – تا تیر ۱۴۰۵
+**سمت:** کارشناس دفتر فنی و نظارت مقیم – آخرین مسئول مستندسازی تا تیر ۱۴۰۵  
+**مدت حضور:** ۲۸ دی ۱۴۰۳ تا پایان تیر ۱۴۰۵ – ۱۸ ماه مستمر
 
+- نماینده مشاور در کارگاه
+- تهیه گزارشات روزانه و هفتگی مصور (شامل گزارش هفته دوم تیر ۱۴۰۵)
+- کنترل احجام خاکبرداری، خاکریزی، زیرسازی، جدول‌گذاری با نقشه‌ها و فهرست بها
+- تهیه صورت وضعیت و صورت جلسات – صورت وضعیت ۶: ۶۰۰,۹۷۲,۷۸۷,۳۹۶ ریال تایید شده
+- نظارت مقیم: خاکی، زیرسازی، رگلاژ با گریدر کوماتسو GD561A، آب‌پاشی B4 با تانکر ماک، تراکم ۱۰۰٪ مستند ۹۹٪ و ۱۰۱٪
+- مدیریت ماشین‌آلات: ۴ اکیپ + ۱۵ نفر نیروی کارگاهی
 
+## 📊 گزارش هفتگی – هفته دوم تیر ۱۴۰۵ (۱۴۰۵/۰۴/۰۶ الی ۱۲) – پیشرفت ۷۰.۰۳٪
 
+| شرح عملیات | واحد | قرارداد | انجام شده | این هفته | درصد |
+|------------|------|---------|-----------|----------|------|
+| بسترسازی | m² | 293,531 | 381,649 | 0 | 130% |
+| خاکبرداری | m³ | 30,273 | 65,791 | 900 | 217% |
+| خاکریزی | m³ | 133,803 | 127,907 | 0 | 95.5% |
+| جداول بتنی | m | 5,203 | 4,184 | 0 | 80.4% |
+| کانال آب | m³ | 9,424 | 3,779 | 0.01 | 40% |
+| تجهیز کارگاه | % | 100% | 80% | 0 | 80% |
 
+**کارهای این هفته:**
+- ادامه خاکبرداری D1
+- تیغ‌زنی و تسطیح E1-E5 جهت تحویل موقت
+- تسطیح، آب‌پاشی و کمپکت D3,G1,G2,G4,G6,F10
+- بارگیری و حمل خاک زائد
+- حمل مصالح از معدن پارک شیخان
 
+**ماشین‌آلات:** بلدوزر ۲/۱، گریدر کوماتسو ۱/۱، لودر ۱/۱، غلطک هپکو ۲/۱، بیل هیتاچی ۱/۱، کمپرسی ۵/۴، تانکر ماک ۱/۱
 
+**مشکلات:** حفاری غیرمجاز آب زون B بدون مجوز، حفاری فاضلاب زون F، عدم رفع معارض A1,A2,A3 و زون C,D
 
+**مالی:** صورت وضعیت ۶ – پیمانکار ۶۹۸ میلیارد، مشاور/کارفرما ۶۰۰ میلیارد – تعدیل ۱۷۴ میلیارد
 
+**پیشرفت:** واقعی ۷۰.۰۳٪ – برنامه‌ای ۱۰۰٪ – ریالی ۵۸.۲۸٪
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="my-4 flex flex-col gap-2 rounded-lg border border-border bg-sidebar p-2" data-streamdown="table-wrapper"><div class="border-collapse overflow-x-auto overflow-y-auto rounded-md border border-border bg-background"><table class="w-full divide-y divide-border" data-streamdown="table"><thead class="bg-muted/80" data-streamdown="table-header"><tr class="border-border" data-streamdown="table-row"><th class="font-semibold" data-streamdown="table-header">شرح عملیات</th><th class="font-semibold" data-streamdown="table-header">واحد</th><th class="font-semibold" data-streamdown="table-header">قرارداد</th><th class="font-semibold" data-streamdown="table-header">انجام شده</th><th class="font-semibold" data-streamdown="table-header">این هفته</th><th class="font-semibold" data-streamdown="table-header">درصد</th></tr></thead><tbody class="divide-y divide-border" data-streamdown="table-body"><tr class="border-border" data-streamdown="table-row"><td data-streamdown="table-cell">بسترسازی</td><td data-streamdown="table-cell">m²</td><td data-streamdown="table-cell">293,531</td><td data-streamdown="table-cell">381,649</td><td data-streamdown="table-cell">0</td><td data-streamdown="table-cell">130%</td></tr><tr class="border-border" data-streamdown="table-row"><td data-streamdown="table-cell">خاکبرداری</td><td data-streamdown="table-cell">m³</td><td data-streamdown="table-cell">30,273</td><td data-streamdown="table-cell">65,791</td><td data-streamdown="table-cell">900</td><td data-streamdown="table-cell">217%</td></tr><tr class="border-border" data-streamdown="table-row"><td data-streamdown="table-cell">خاکریزی</td><td data-streamdown="table-cell">m³</td><td data-streamdown="table-cell">133,803</td><td data-streamdown="table-cell">127,907</td><td data-streamdown="table-cell">0</td><td data-streamdown="table-cell">95.5%</td></tr><tr class="border-border" data-streamdown="table-row"><td data-streamdown="table-cell">جداول بتنی</td><td data-streamdown="table-cell">m</td><td data-streamdown="table-cell">5,203</td><td data-streamdown="table-cell">4,184</td><td data-streamdown="table-cell">0</td><td data-streamdown="table-cell">80.4%</td></tr><tr class="border-border" data-streamdown="table-row"><td data-streamdown="table-cell">کانال آب</td><td data-streamdown="table-cell">m³</td><td data-streamdown="table-cell">9,424</td><td data-streamdown="table-cell">3,779</td><td data-streamdown="table-cell">0.01</td><td data-streamdown="table-cell">40%</td></tr><tr class="border-border" data-streamdown="table-row"><td data-streamdown="table-cell">تجهیز کارگاه</td><td data-streamdown="table-cell">%</td><td data-streamdown="table-cell">100%</td><td data-streamdown="table-cell">80%</td><td data-streamdown="table-cell">0</td><td data-streamdown="table-cell">80%</td></tr></tbody></table></div></div>
-<p><span class="font-semibold" data-streamdown="strong">کارهای این هفته:</span></p>
-<ul class="list-inside list-disc whitespace-normal [li_&amp;]:pl-6" data-streamdown="unordered-list">
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">ادامه خاکبرداری D1</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">تیغ‌زنی و تسطیح E1-E5 جهت تحویل موقت</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">تسطیح، آب‌پاشی و کمپکت D3,G1,G2,G4,G6,F10</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">بارگیری و حمل خاک زائد</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">حمل مصالح از معدن پارک شیخان</li>
-</ul>
-<p><span class="font-semibold" data-streamdown="strong">ماشین‌آلات:</span> بلدوزر ۲/۱، گریدر کوماتسو ۱/۱، لودر ۱/۱، غلطک هپکو ۲/۱، بیل هیتاچی ۱/۱، کمپرسی ۵/۴، تانکر ماک ۱/۱</p>
-<p><span class="font-semibold" data-streamdown="strong">مشکلات:</span> حفاری غیرمجاز آب زون B بدون مجوز، حفاری فاضلاب زون F، عدم رفع معارض A1,A2,A3 و زون C,D</p>
-<p><span class="font-semibold" data-streamdown="strong">مالی:</span> صورت وضعیت ۶ – پیمانکار ۶۹۸ میلیارد، مشاور/کارفرما ۶۰۰ میلیارد – تعدیل ۱۷۴ میلیارد</p>
-<p><span class="font-semibold" data-streamdown="strong">پیشرفت:</span> واقعی ۷۰.۰۳٪ – برنامه‌ای ۱۰۰٪ – ریالی ۵۸.۲۸٪</p>
-<h2 class="mt-6 mb-2 font-semibold text-2xl" data-streamdown="heading-2">📸 مستندات تصویری – ۱۳ عکس</h2>
-<p>در index.html – با Lightbox – لینک گوگل مپ: <a href="https://www.google.com/maps/place/25.376597,+60.392980/" target="_blank" rel="noopener noreferrer" node="[object Object]">https://www.google.com/maps/place/25.376597,+60.392980/</a></p></div></div></div></div><!--$--><!--/$--><script src="/_next/static/chunks/2itn9ngb6p3qo.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk" id="_R_" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,"1:\"$Sreact.fragment\"\n3:I[880623,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\"],\"default\"]\n4:I[317553,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\"],\"default\"]\n6:I[231865,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\"],\"OutletBoundary\"]\n7:\"$Sreact.suspense\"\na:I[231865,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\"],\"ViewportBoundary\"]\nc:I[231865,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\"],\"MetadataBoundary\"]\ne:I[965245,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\"],\"default\",1]\n:HL[\"/_next/static/chunks/0mcs_poiiru-q.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"style\"]\n:HL[\"/_next/static/chunks/0zuzojn6iq62k.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"style\"]\n:HL[\"/_next/static/media/OptimisticAI_VF_Optimized-s.p.41te7jvyx2g5b.woff2?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/media/OptimisticAI_W_TextRegularIt-s.p.3i-4g1i3oysuq.woff2?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/chunks/2tblhxnx5eynz.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"style\"]\n:HL[\"/_next/static/chunks/287l5xq35imjj.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"style\"]\n:HL[\"/_next/static/chunks/2jjy6o95vbpj2.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"style\"]\n"])</script><script>self.__next_f.push([1,"0:{\"P\":null,\"c\":[\"\",\"markdown?artifact_uuid=0dbcd2cd-d19e-47df-913d-0f78a6500689\u0026ext=1786618800\u0026hash=Q5fpDAGtLVdx8E6mIAWdqha7CWSy\u0026theme=light\"],\"q\":\"?artifact_uuid=0dbcd2cd-d19e-47df-913d-0f78a6500689\u0026ext=1786618800\u0026hash=Q5fpDAGtLVdx8E6mIAWdqha7CWSy\u0026theme=light\",\"i\":false,\"f\":[[[\"\",{\"children\":[\"markdown\",{\"children\":[\"__PAGE__?{\\\"artifact_uuid\\\":\\\"0dbcd2cd-d19e-47df-913d-0f78a6500689\\\",\\\"ext\\\":\\\"1786618800\\\",\\\"hash\\\":\\\"Q5fpDAGtLVdx8E6mIAWdqha7CWSy\\\",\\\"theme\\\":\\\"light\\\"}\",{}]}]},\"$undefined\",\"$undefined\",16],[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/0mcs_poiiru-q.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/0zuzojn6iq62k.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"async\":true,\"nonce\":\"$undefined\"}]],\"$L2\"]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[\"$L5\",[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/2tblhxnx5eynz.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/287l5xq35imjj.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"2\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/2jjy6o95vbpj2.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/1iz7o0_0nhsj0.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/00v-gn59_u31t.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-2\",{\"src\":\"/_next/static/chunks/1hgne56kqq79v.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"$L6\",null,{\"children\":[\"$\",\"$7\",null,{\"name\":\"Next.MetadataOutlet\",\"children\":\"$@8\"}]}]]}],{},null,false,null]},null,false,\"$@9\"]},null,false,null],[\"$\",\"$1\",\"h\",{\"children\":[null,[\"$\",\"$La\",null,{\"children\":\"$Lb\"}],[\"$\",\"div\",null,{\"hidden\":true,\"children\":[\"$\",\"$Lc\",null,{\"children\":[\"$\",\"$7\",null,{\"name\":\"Next.Metadata\",\"children\":\"$Ld\"}]}]}],[\"$\",\"meta\",null,{\"name\":\"next-size-adjust\",\"content\":\"\"}]]}],false]],\"m\":\"$undefined\",\"G\":[\"$e\",[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/0mcs_poiiru-q.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/0zuzojn6iq62k.css?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}]]],\"S\":false,\"h\":null,\"s\":\"$undefined\",\"l\":\"$undefined\",\"p\":\"$undefined\",\"d\":\"$undefined\"}\n"])</script><script>self.__next_f.push([1,"f:[]\n9:\"$Wf\"\n2:[\"$\",\"html\",null,{\"lang\":\"en\",\"className\":\"optimisticai_d4925249-module__WZtcjq__variable optimisticmono_9b82a078-module__hMSRWa__variable light\",\"children\":[[\"$\",\"head\",null,{\"children\":false}],[\"$\",\"body\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[null,[]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]}]]}]\nb:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\n8:null\nd:[]\n"])</script><script>self.__next_f.push([1,"10:I[389231,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"/_next/static/chunks/1iz7o0_0nhsj0.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"/_next/static/chunks/00v-gn59_u31t.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\",\"/_next/static/chunks/1hgne56kqq79v.js?dpl=dpl_GXdqQHBWBmi6kQLsfRzB1VgmT9Uk\"],\"MarkdownViewer\",1]\n11:T120f,"])</script><script>self.__next_f.push([1,"# پروژه ۶۴ هکتاری نهضت ملی مسکن کنارک - مستندات کارشناس دفتر فنی و نظارت مقیم\n\n[![موقعیت](https://img.shields.io/badge/موقعیت-25.376597%2C%2060.392980-D4AF37)](https://www.google.com/maps/place/25.376597,+60.392980/)\n[![پیشرفت](https://img.shields.io/badge/پیشرفت-70.03%25-00ff88)]()\n[![مساحت](https://img.shields.io/badge/مساحت-64%20هکتار-D4AF37)]()\n[![خاکبرداری](https://img.shields.io/badge/خاکبرداری-120هزار%20م³-ffaa00)]()\n[![تراکم](https://img.shields.io/badge/تراکم-100%25%20(99%25%20و%20101%25)-success)]()\n\n**[English](README_EN.md) | [العربية](README_AR.md) | فارسی**\n\n**سایت زنده:** https://mtajdary.github.io/konarak-64ha-docs/  \n**درایو (۷ عکس):** https://drive.google.com/file/d/1r8C-vqsXc178faxJNOLwULhxNvOTQrQT/view  \n**نویسنده:** محمد تاجداری – کارشناس دفتر فنی و نظارت مقیم | Mohammadtajdariii@gmail.com\n\n## 📍 موقعیت و کلیات\n- **مختصات:** 25.376597, 60.392980 – کنارک، منطقه آزاد چابهار\n- **پروژه:** نهضت ملی مسکن – آماده‌سازی سایت ۶۴ هکتاری\n- **مقیاس:** ۴۰۰ واحد قابل توسعه تا ۲۵۰۰ واحد\n- **کارفرما:** اداره کل راه و شهرسازی جنوب سیستان و بلوچستان\n- **مشاور:** مهندسین مشاور اتفاق طرح و تدبیر – تاسیس ۱۳۸۶ – ثبت ۳۱۰۶۲۱ – مدیرعامل عباس نایب‌زاده – ۶۲ پروژه – ۱۶۵۲ کیلومتر – ISO 9001:2015\n- **پیمانکار:** شرکت پورآب تاراز – قرارداد ۱۴۱۹۱ – مبلغ اولیه ۱,۰۳۱,۰۰۹,۱۲۷,۹۳۵ ریال – فهرست بها راه و باند ۱۴۰۲\n\n## 👷 نقش اینجانب – تا تیر ۱۴۰۵\n**سمت:** کارشناس دفتر فنی و نظارت مقیم – آخرین مسئول مستندسازی تا تیر ۱۴۰۵  \n**مدت حضور:** ۲۸ دی ۱۴۰۳ تا پایان تیر ۱۴۰۵ – ۱۸ ماه مستمر\n\n- نماینده مشاور در کارگاه\n- تهیه گزارشات روزانه و هفتگی مصور (شامل گزارش هفته دوم تیر ۱۴۰۵)\n- کنترل احجام خاکبرداری، خاکریزی، زیرسازی، جدول‌گذاری با نقشه‌ها و فهرست بها\n- تهیه صورت وضعیت و صورت جلسات – صورت وضعیت ۶: ۶۰۰,۹۷۲,۷۸۷,۳۹۶ ریال تایید شده\n- نظارت مقیم: خاکی، زیرسازی، رگلاژ با گریدر کوماتسو GD561A، آب‌پاشی B4 با تانکر ماک، تراکم ۱۰۰٪ مستند ۹۹٪ و ۱۰۱٪\n- مدیریت ماشین‌آلات: ۴ اکیپ + ۱۵ نفر نیروی کارگاهی\n\n## 📊 گزارش هفتگی – هفته دوم تیر ۱۴۰۵ (۱۴۰۵/۰۴/۰۶ الی ۱۲) – پیشرفت ۷۰.۰۳٪\n\n| شرح عملیات | واحد | قرارداد | انجام شده | این هفته | درصد |\n|------------|------|---------|-----------|----------|------|\n| بسترسازی | m² | 293,531 | 381,649 | 0 | 130% |\n| خاکبرداری | m³ | 30,273 | 65,791 | 900 | 217% |\n| خاکریزی | m³ | 133,803 | 127,907 | 0 | 95.5% |\n| جداول بتنی | m | 5,203 | 4,184 | 0 | 80.4% |\n| کانال آب | m³ | 9,424 | 3,779 | 0.01 | 40% |\n| تجهیز کارگاه | % | 100% | 80% | 0 | 80% |\n\n**کارهای این هفته:**\n- ادامه خاکبرداری D1\n- تیغ‌زنی و تسطیح E1-E5 جهت تحویل موقت\n- تسطیح، آب‌پاشی و کمپکت D3,G1,G2,G4,G6,F10\n- بارگیری و حمل خاک زائد\n- حمل مصالح از معدن پارک شیخان\n\n**ماشین‌آلات:** بلدوزر ۲/۱، گریدر کوماتسو ۱/۱، لودر ۱/۱، غلطک هپکو ۲/۱، بیل هیتاچی ۱/۱، کمپرسی ۵/۴، تانکر ماک ۱/۱\n\n**مشکلات:** حفاری غیرمجاز آب زون B بدون مجوز، حفاری فاضلاب زون F، عدم رفع معارض A1,A2,A3 و زون C,D\n\n**مالی:** صورت وضعیت ۶ – پیمانکار ۶۹۸ میلیارد، مشاور/کارفرما ۶۰۰ میلیارد – تعدیل ۱۷۴ میلیارد\n\n**پیشرفت:** واقعی ۷۰.۰۳٪ – برنامه‌ای ۱۰۰٪ – ریالی ۵۸.۲۸٪\n\n## 📸 مستندات تصویری – ۱۳ عکس\nدر index.html – با Lightbox – لینک گوگل مپ: https://www.google.com/maps/place/25.376597,+60.392980/\n"])</script><script>self.__next_f.push([1,"5:[\"$\",\"$L10\",null,{\"content\":\"$11\",\"contentRef\":\"$undefined\",\"editable\":false,\"thumbnailZoom\":null}]\n"])</script></body></html>
+## 📸 مستندات تصویری – ۱۳ عکس
+در index.html – با Lightbox – لینک گوگل مپ: https://www.google.com/maps/place/25.3743105,+60.3953031/

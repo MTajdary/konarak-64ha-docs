@@ -1,12 +1,12 @@
 # محمد تاجداری – رزومه و پورتفولیو شخصی – مهندس عمران – ۶۴ هکتار کنارک
 
-[![رزومه](https://img.shields.io/badge/رزومه-مهندس%20عمران-blue)]()
-[![پورتفولیو](https://img.shields.io/badge/پورتفولیو-سایت%20زنده%20-%2013%20عکس-D4AF37)](https://mtajdary.github.io/konarak-64ha-docs/)
-[![موقعیت](https://img.shields.io/badge/موقعیت-کنارک%2064%20هکتار-D4AF37)](https://www.google.com/maps/place/25.3743105,60.3953031/@25.3743105,60.3953031,17z)
+[![رزومه](https://img.shields.io/badge/Resume-Civil_Engineer-blue)](https://github.com/mtajdary/konarak-64ha-docs/blob/main/README_FA.md)
+[![پورتفولیو](https://img.shields.io/badge/Portfolio-Live_Site_13_Photos-D4AF37)](https://mtajdary.github.io/konarak-64ha-docs/?lang=fa)
+[![موقعیت](https://img.shields.io/badge/Location-Konarak_64Ha-D4AF37)](https://www.google.com/maps/place/25.3743105,60.3953031/@25.3743105,60.3953031,17z)
 
 **[English](README_EN.md) | [العربية](README_AR.md) | [Main](README.md)**
 
-**🌐 سایت پورتفولیو زنده (جدید - بدون PDF - 13 عکس داخل خود سایت - ریسپانسیو):**  
+**🌐 سایت پورتفولیو زنده:**  
 **https://mtajdary.github.io/konarak-64ha-docs/**
 
 ## مشخصات تماس
@@ -62,11 +62,10 @@
 | تست تراکم | 99% و 101% | مشخصه 98% - تایید آزمایشگاه |
 
 ## لینک پورتفولیو
-مستندات تصویری کامل با 13 عکس واقعی داخل خود سایت جدید است (بدون PDF):
+مستندات تصویری کامل با 13 عکس واقعی داخل خود سایت  است:
 
 **https://mtajdary.github.io/konarak-64ha-docs/**
 
-سایت ریسپانسیو (موبایل و دسکتاپ)، هدر با انتخاب زبان عوض می‌شود، فونت زیبا Vazirmatn برای سایت.
-
+سایت ریسپانسیو (موبایل و دسکتاپ)
 ---
 **تهیه کننده:** محمد تاجداری – mohammadtajdariii@gmail.com – تیر 1405

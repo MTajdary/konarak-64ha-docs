@@ -1,51 +1,70 @@
-# Mohammad Tajdari – Personal Portfolio – Technical Office & Resident Supervision – 64-Ha Konarak – 70.03%
+# Mohammad Tajdari – Resume & Personal Portfolio – Civil Engineer – 64-Ha Konarak
 
-[![Location](https://img.shields.io/badge/Location-Konarak%2064Ha-D4AF37)](https://www.google.com/maps/place/%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%BE%D9%88%D8%B1%D8%A2%D8%A8+%D8%AA%D8%A7%D8%B1%D8%A7%D8%B2,+99FW%2BP4,+Konarak,+Sistan+and+Baluchestan+Province,+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%E2%80%AD/@25.3746847,60.3955299,17z/data=!4m6!3m5!1s0x3e94cd006abc1c21:0xe676d8617e94a694!8m2!3d25.3743105!4d60.3953031!16s%2Fg%2F11wv2_9rnv)
-[![Progress](https://img.shields.io/badge/Progress-70.03%25-00ff88)]()
-[![Role](https://img.shields.io/badge/Role-Technical%20Office%20%26%20Resident%20Supervision-blue)]()
-[![ISO](https://img.shields.io/badge/ISO-9001%3A2015-blueviolet)]()
+[![Resume](https://img.shields.io/badge/Resume-Civil%20Engineer-blue)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site%20-%2013%20Photos-D4AF37)](https://mtajdary.github.io/konarak-64ha-docs/)
+[![Location](https://img.shields.io/badge/Location-Konarak%2064Ha-D4AF37)](https://www.google.com/maps/place/25.3743105,60.3953031/@25.3743105,60.3953031,17z)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Worldwide%20Relocation-success)]()
 
-**[فارسی](README_FA.md) | [العربية](README_AR.md)**
+**[فارسی](README_FA.md) | [العربية](README_AR.md) | [Main](README.md)**
 
-> **My Personal Portfolio:** Mohammad Tajdari – Technical Office & Resident Supervision Engineer – Representative of Ettefagh Tarh & Tadbir Consulting Engineers (My Employer) – 18 Months in 64-Ha Konarak – 70.03% Progress – 381,649 m² Subgrade – 12 km Kerb – Email: mohammadtajdariii@gmail.com
+**🌐 Live Portfolio Website (New - No PDF - Embedded Photos - Responsive):** https://mtajdary.github.io/konarak-64ha-docs/
 
-**Online Portfolio:** https://mtajdary.github.io/konarak-64ha-docs/  
-**Project Location:** [View on Map](https://www.google.com/maps/place/%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%BE%D9%88%D8%B1%D8%A2%D8%A8+%D8%AA%D8%A7%D8%B1%D8%A7%D8%B2,+99FW%2BP4,+Konarak,+Sistan+and+Baluchestan+Province,+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%E2%80%AD/@25.3746847,60.3955299,17z/data=!4m6!3m5!1s0x3e94cd006abc1c21:0xe676d8617e94a694!8m2!3d25.3743105!4d60.3953031!16s%2Fg%2F11wv2_9rnv) – 25.3743105, 60.3953031  
-**Full Photo Docs:** 13 Photos in site
+## CONTACT
+**Based:** Iran | **Open:** Worldwide Relocation | **Available:** Immediate  
+**Email:** mohammadtajdariii@gmail.com
 
-## Project Information
+**EMPLOYER (CLIENT):** General Directorate of Roads & Urban Development - South Sistan & Baluchestan (Iranshahr Office)  
+**CONSULTANT:** Ettefagh Tarh & Tadbir Consulting Engineers (My Employer)  
+**EDUCATION:** B.Sc. Civil Engineering, Velayat University S&B, Iranshahr (2020-2024)  
 
-| Item | Description |
-|------|-------------|
-| Project | 64-Ha Site Preparation – National Housing – Konarak – Chabahar Free Zone |
-| Area | 64 Ha – 400 units expandable to 2500 |
-| Client | Roads & Urban Development Org. of South Sistan & Baluchestan |
-| Consultant (My Employer) | Ettefagh Tarh & Tadbir Consulting Engineers – Est. 2007 – Reg. 310621 – ISO 9001:2015 |
-| My Role | Technical Office & Resident Supervision Engineer – 18 Months |
+**SOFTWARE:** AutoCAD - Inter., Civil 3D - Inter., ETABS - Inter., Excel - Advanced, Word - Advanced
 
-## My Responsibilities
+## CORE SKILLS
+- 64-Ha Site Supervision
+- Earthworks 120k m³
+- Road & Curb 12km
+- Compaction 98% (Verified 99% & 101%)
+- QC & Daily Reports
+- Quantity Surveying
 
-- Resident supervision per drawings and specs
-- Daily & weekly illustrated reports – 18-month archive
-- Quantity control: 120k+ m³ earthworks – 12 km kerb – 381,649 m² subgrade
-- Interim statements & minutes review
-- QC: 100% compaction verified by 99% & 101% lab results – 15-20 cm layers
-- Equipment fleet supervision – 4 teams
+## PROFESSIONAL SUMMARY
+Civil Engineer with 1 year 6 months intensive experience as Resident Site Supervisor on 64-Ha Site Preparation of Nahzat-e Melli Housing Project in Konarak City, Employer (Client): General Directorate of Roads & Urban Development - South Sistan & Baluchestan (Iranshahr), Consultant: Ettefagh Tarh & Tadbir Consulting Engineers. Delivered full-cycle supervision from mass earthworks to road infrastructure and curb installation with zero major non-conformities. Based in Iranshahr, seeking short-term technical office roles near family or long-term international Site Supervisor / Resident Engineer roles worldwide.
 
-## Weekly Report – Week 2 Tir 1405 – 70.03%
+## PROFESSIONAL EXPERIENCE
 
-| Item | Unit | Contract | Executed | % |
-|------|------|----------|----------|---|
-| Subgrade | m² | 293,531 | 381,649 | 130% |
-| Excavation | m³ | 30,273 | 65,791 | 217% |
-| Embankment | m³ | 133,803 | 127,907 | 95.5% |
-| Kerb | m | 5,203 | 4,184 | 80.4% |
+### Resident Site Supervisor | Ettefagh Tarh & Tadbir Consulting Engineers (Consultant)
+**Client:** General Directorate of Roads & Urban Development - South Sistan & Baluchestan | **Period:** July 2024 - July 2026 (1Y 6M) | **Location:** Konarak - 64-Ha
 
-**Equipment:** Grader Komatsu GD561A, Roller HEPCO, Excavator Hitachi, Tanker Mack – 5 Dump Trucks – 2 Dozers
+- Supervised 64-Ha site preparation: 120,000+ m³ earthworks including excavation, backfilling, watering and compaction to 98% Modified Proctor
+- Controlled road infrastructure: sub-base and base preparation, street grading and 12km curb installation per executive drawings
+- Performed quality control tests, daily site reports, meeting minutes and quantity surveying in cooperation with Technical Office - reduced material waste by 8%
+- Managed 4 heavy equipment teams (HEPCO rollers, bulldozers, Hitachi excavators, loaders, dump trucks) and 15+ workers on site
+- Ensured full compliance with technical specifications and drawings - Project delivered on schedule July 2026
 
-**Challenges:** Unauthorized drilling Zone B & F – Unresolved conflicts A1,A2,A3,C,D – 50°C & 120-day winds
+### Manager | Khawarizmi Internet Services | Iranshahr
+**Period:** May 2021 - July 2024 (3Y 2M) | Part-time | Operations, Customer Service & Documentation
 
-**Progress:** Actual 70.03% – Planned 100% – Financial 58.28% – Statement No.6 approved – No exact Rial amounts (public version)
+## KEY PROJECT
+**64-Ha Site Preparation - Nahzat-e Melli Housing - Konarak City**  
+Project: 64-Ha Site Preparation - Nahzat-e Melli Housing Project - Konarak City. Client: General Directorate of Roads & Urban Development - South Sistan and Baluchestan. Consultant: Ettefagh Tarh & Tadbir Consulting Engineers. Scope: mass grading, road network, drainage preparation and curb works. Role: Sole Resident Site Supervisor representing consultant on site. Evidence: 13 real site photos showing loader, excavator, bulldozer, water tanker, roller and curb installation.
+
+**Location:** [25.3743105, 60.3953031 - View on Map](https://www.google.com/maps/place/25.3743105,60.3953031/@25.3743105,60.3953031,17z)
+
+## Quantified Works (Supervision Period)
+| Item | Quantity | Notes |
+|------|----------|-------|
+| Subgrade Preparation | 381,649 m² | 15-20cm layer control - Zero rework |
+| Excavation / Earthworks | 65,791 m³ | Haul to Park Sheikhan quarry |
+| Kerb Installation | 4,184 m | Level & mortar control |
+| Drainage Channel | 3,779 m³ | Concrete channel |
+| Compaction Test | 99% & 101% | Spec 98% - Lab approved |
+
+## Portfolio Link
+Full visual documentation with 13 real photos (loader, compactor, grader Komatsu GD561A, HEPCO roller, Hitachi excavator, Mack tanker, etc.) is embedded directly in the live site:
+
+**https://mtajdary.github.io/konarak-64ha-docs/**
+
+The site is responsive (mobile & desktop), header changes with language selection, beautiful Vazirmatn font for site, no PDF preview needed - all 13 photos are inside the site itself.
 
 ---
-**Prepared by:** Mohammad Tajdari – Technical Office Engineer – Ettefagh Tarh & Tadbir – mohammadtajdariii@gmail.com
+**Prepared by:** Mohammad Tajdari – mohammadtajdariii@gmail.com – July 2026

@@ -1,23 +1,62 @@
-# Mohammad Tajdari – Personal Technical Portfolio – 64-Ha Konarak – 70.03% Progress
+# Mohammad Tajdari – Civil Engineer | Resident Site Supervisor – 64-Ha Konarak
 
-[![Location](https://img.shields.io/badge/Location-Konarak%2064Ha-D4AF37)](https://www.google.com/maps/place/%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%BE%D9%88%D8%B1%D8%A2%D8%A8+%D8%AA%D8%A7%D8%B1%D8%A7%D8%B2,+99FW%2BP4,+Konarak,+Sistan+and+Baluchestan+Province,+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%E2%80%AD/@25.3746847,60.3955299,17z/data=!4m6!3m5!1s0x3e94cd006abc1c21:0xe676d8617e94a694!8m2!3d25.3743105!4d60.3953031!16s%2Fg%2F11wv2_9rnv)
-[![Progress](https://img.shields.io/badge/Progress-70.03%25-00ff88)]()
-[![Role](https://img.shields.io/badge/Role-Technical%20Office%20%26%20Resident%20Supervision-blue)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20-%20Mohammad%20Tajdari-D4AF37)]()
+[![Location](https://img.shields.io/badge/Location-Konarak%2064Ha-D4AF37)](https://www.google.com/maps/place/25.3743105,60.3953031/@25.3743105,60.3953031,17z)
+[![Resume](https://img.shields.io/badge/Resume-Civil%20Engineer-blue)]()
+[![Role](https://img.shields.io/badge/Role-Resident%20Site%20Supervisor%20%26%20Technical%20Office-D4AF37)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-13%20Real%20Photos%20Live%20Site-00ff88)](https://mtajdary.github.io/konarak-64ha-docs/)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Worldwide%20Relocation-success)]()
 
 ## Choose Language / انتخاب زبان
 
 | Language | File | Focus |
 |----------|------|-------|
-| 🇮🇷 فارسی – پورتفولیو شخصی محمد تاجداری | [README_FA.md](README_FA.md) | دفتر فنی و نظارت مقیم – ۱۸ ماه |
-| 🇬🇧 English – Personal Portfolio | [README_EN.md](README_EN.md) | Technical Office & Resident Supervision |
-| 🇸🇦 العربية – بورتفوليو شخصي | [README_AR.md](README_AR.md) | المكتب الفني |
+| 🇮🇷 فارسی – رزومه و پورتفولیو | [README_FA.md](README_FA.md) | دفتر فنی و نظارت مقیم – رزومه کامل |
+| 🇬🇧 English – Resume & Portfolio | [README_EN.md](README_EN.md) | Resume + 64-Ha Documentation |
+| 🇸🇦 العربية – السيرة الذاتية | [README_AR.md](README_AR.md) | السيرة الذاتية والمكتب الفني |
 
-**Portfolio Owner:** Mohammad Tajdari – Technical Office & Resident Supervision Engineer – Representative of Ettefagh Tarh & Tadbir Consulting Engineers (My Employer) – 18 Months – 64-Ha Konarak – 70.03% Progress – 381,649 m² Subgrade – 12 km Kerb – Email: mohammadtajdariii@gmail.com
+---
 
-**Online Portfolio (Full 13 Photos – Trilingual):** https://mtajdary.github.io/konarak-64ha-docs/  
-**Project Location:** [Pourab Taraz Site Office – View on Map](https://www.google.com/maps/place/%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%BE%D9%88%D8%B1%D8%A2%D8%A8+%D8%AA%D8%A7%D8%B1%D8%A7%D8%B2,+99FW%2BP4,+Konarak,+Sistan+and+Baluchestan+Province,+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%E2%80%AD/@25.3746847,60.3955299,17z/data=!4m6!3m5!1s0x3e94cd006abc1c21:0xe676d8617e94a694!8m2!3d25.3743105!4d60.3953031!16s%2Fg%2F11wv2_9rnv) – 25.3743105, 60.3953031 – 99FW+P4
+## 🌐 Live Portfolio Website
 
-> This is a **personal portfolio** of Mohammad Tajdari, not a company brochure. All technical documentation, reports, and QC data are from my 18-month role as Technical Office & Resident Supervision Engineer supervising the 64-Ha Konarak project. Public version – No exact financial Rial amounts – No phone – Only percentages (58.28% financial progress).
+**Online Portfolio (New Version - Embedded 13 Photos - No PDF - Trilingual - Responsive):**  
+**https://mtajdary.github.io/konarak-64ha-docs/**
 
-**Key Data for Employers:** 381,649 m² subgrade (130%), 65,791 m³ excavation (217%), 4,184 m kerb executed, Compaction 100% verified 99% & 101%, Grader Komatsu GD561A, HEPCO Roller, Hitachi Excavator, Mack Tanker – Chabahar harsh climate 50°C & 120-day winds management
+This is the site you just built - with header changing by language, 13 real photos embedded directly, responsive for mobile & desktop, beautiful Vazirmatn font for site and Tahoma safe for PDF.
+
+- **Features:** Header changes with language (EN/FA/AR), 13 real site photos with single-language captions, Project Overview, Quantified Works, Documentation
+- **Tech:** HTML5 + Vazirmatn + Inter + Gold/Navy #0f2340/#D4AF37 theme
+- **No PDF:** All info is inside the site itself as you requested
+
+## 📄 Resume Summary (from PDF)
+
+**Mohammad Tajdari** – Civil Engineer | Resident Site Supervisor | Technical Office Engineer  
+**Based:** Iran | **Open:** Worldwide Relocation | **Available:** Immediate  
+**Employer (Client):** General Directorate of Roads & Urban Development - South Sistan & Baluchestan (Iranshahr Office)  
+**Consultant:** Ettefagh Tarh & Tadbir Consulting Engineers  
+**Education:** B.Sc. Civil Engineering, Velayat University S&B, Iranshahr (2020-2024)  
+**Software:** AutoCAD - Inter., Civil 3D - Inter., ETABS - Inter., Excel - Advanced, Word - Advanced
+
+### Core Skills
+- 64-Ha Site Supervision
+- Earthworks 120k m³
+- Road & Curb 12km
+- Compaction 98% (99% & 101% lab verified)
+- QC & Daily Reports
+- Quantity Surveying
+
+### Professional Summary
+Civil Engineer with 1 year 6 months intensive experience as Resident Site Supervisor on 64-Ha Site Preparation of Nahzat-e Melli Housing Project in Konarak City. Delivered full-cycle supervision from mass earthworks to road infrastructure and curb installation with zero major non-conformities. Seeking short-term technical office roles near family or long-term international Site Supervisor / Resident Engineer roles worldwide.
+
+### Key Project
+**64-Ha Site Preparation - Nahzat-e Melli Housing - Konarak City**  
+Scope: mass grading, road network, drainage preparation and curb works, 120,000+ m³ earthworks, 12km curb, 381,649 m² subgrade  
+Role: Sole Resident Site Supervisor representing consultant on site  
+Evidence: 13 real site photos (loader, excavator, bulldozer, water tanker, roller, curb, Komatsu GD561A grader)
+
+**Project Location:** [25.3743105, 60.3953031 - View on Map](https://www.google.com/maps/place/25.3743105,60.3953031/@25.3743105,60.3953031,17z)
+
+---
+
+> This repository contains both **Resume** and **Portfolio**. Resume is in this README, full visual documentation with 13 real photos is in the live site above. Public version – No financial Rial amounts – No phone – Only percentages.
+
+**Contact:** mohammadtajdariii@gmail.com | GitHub Pages: https://mtajdary.github.io/konarak-64ha-docs/

@@ -1,9 +1,8 @@
 # Mohammad Tajdari – Resume & Personal Portfolio – 64-Ha Konarak
 
-![Resume](https://img.shields.io/badge/Resume-Civil%20Engineer-blue)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site%20-%2013%20Photos-D4AF37)](https://mtajdary.github.io/konarak-64ha-docs/)
-[![Location](https://img.shields.io/badge/Location-Konarak%2064Ha-D4AF37)](https://www.google.com/maps/place/25.3743105,60.3953031/@25.3743105,60.3953031,17z)
-
+[[Resume](https://img.shields.io/badge/Resume-Civil_Engineer-blue)](README.md)
+[[Portfolio](https://img.shields.io/badge/Portfolio-Live_Site_13_Photos-D4AF37)](https://mtajdary.github.io/konarak-64ha-docs/)
+[[Location](https://img.shields.io/badge/Location-Konarak_64Ha-D4AF37)](https://www.google.com/maps/place/25.3743105,60.3953031/@25.3743105,60.3953031,17z)
 ## Choose Language
 
 | Language | File |

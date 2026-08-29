@@ -2,15 +2,8 @@
 # پروژه 64 هکتاری نهضت ملی مسکن کنارک | Konarak 64ha National Housing Project
 
 
-
 <p align="center">
-  <a href="https://mtajdary.github.io/konarak-64ha-docs/">
-    <img src="https://img.shields.io/badge/VIEW%20FULL%20PORTFOLIO%20WEBSITE-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="docs/konarak-64ha-subgrade2-overview.jpg" width="100%" alt="Konarak 64ha Project - Subgrade and Curbing Works" />
+<img src="Docs/konarak-64ha-subgrade2-overview.jpg" width="100%" alt="Konarak 64ha Project - Subgrade and Curbing Works" />
 </p>
 
 ---

@@ -5,7 +5,6 @@
 <p align="center">
   <img src="Docs/docs_konarak-64ha-subgrade2-overview.jpg" width="100%" alt="Konarak 64ha - Subgrade 2 and Curbing Works" />
 </p>
-
   <br>
   <em>Konarak 64ha National Housing Project - Subgrade Preparation & Curbing | پروژه 64 هکتاری نهضت ملی مسکن کنارک - آماده سازی و جدول گذاری</em>
 </p>
@@ -18,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b> روی دکمه بالا کلیک کنید</b><br>
+  <b>برای مشاهده نمونه کارها به صورت کامل روی دکمه بالا کلیک کنید </b><br>
   <b>Click the button above to view full portfolio</b>
 </p>
 

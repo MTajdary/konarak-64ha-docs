@@ -1,9 +1,8 @@
-
 # پروژه 64 هکتاری نهضت ملی مسکن کنارک | Konarak 64ha National Housing Project
 
 
 <p align="center">
-<img src="Docs/konarak-64ha-subgrade2-overview.jpg" width="100%" alt="Konarak 64ha Project - Subgrade and Curbing Works" />
+  <img src="Docs/docs_konarak-64ha-subgrade2-overview.jpg" width="100%" alt="Konarak 64ha - Subgrade 2 and Curbing Works" />
 </p>
 
 ---

@@ -11,13 +11,6 @@
 
 <p align="center">
   <img src="docs/konarak-64ha-subgrade2-overview.jpg" width="100%" alt="Konarak 64ha Project - Subgrade and Curbing Works" />
-  <br>
-  <em>Konarak 64ha - Subgrade Preparation up to Subgrade 2 + Concrete Curbing - Flat Coastal Site | پروژه 64 هکتاری کنارک - آماده سازی تا سابگرید 2 و جدول گذاری</em>
-</p>
-
-<p align="center">
-  <b>👆 Click the button above to view full portfolio</b><br>
-  🌐 https://mtajdary.github.io/konarak-64ha-docs/
 </p>
 
 ---

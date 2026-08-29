@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://mtajdary.github.io/konarak-64ha-docs/">
-    <img src="https://img.shields.io/badge/Click_the_button_to_view_full_portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/CLICK%20THE%20BUTTON%20TO%20VIEW%20FULL%20PORTFOLIO-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <b> روی دکمه بالا کلیک کنید</b><br>
-  <b>Click the button above to view full portfolio - No GitHub knowledge required</b>
+  <b>Click the button above to view full portfolio</b>
 </p>
 
 <p align="center">

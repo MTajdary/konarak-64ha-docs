@@ -1,18 +1,30 @@
 # Mohammad Tajdari – Resume & Technical Portfolio – 64-Ha Konarak
 ### محمد تاجداری – رزومه و نمونه کار فنی – ۶۴ هکتاری کنارک
 
-<p align="center">
-  <a href="https://mtajdary.github.io/konarak-64ha-docs/">
-    <img src="https://img.shields.io/badge/VIEW%20FULL%20PORTFOLIO%20WEBSITE-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
-  </a>
-</p>
 
 <p align="center">
-  <img src="Docs/docs_konarak-64ha-subgrade2-overview.jpg" width="100%" alt="Konarak 64ha Project - Subgrade and Curbing Works" />
+  <img src="Docs/docs_konarak-64ha-subgrade2-overview.jpg" width="100%" alt="Konarak 64ha - Subgrade 2 and Curbing Works" />
+</p>
+
   <br>
   <em>Konarak 64ha National Housing Project - Subgrade Preparation & Curbing | پروژه 64 هکتاری نهضت ملی مسکن کنارک - آماده سازی و جدول گذاری</em>
 </p>
 
+---
+<p align="center">
+  <a href="https://mtajdary.github.io/konarak-64ha-docs/">
+    <img src="https://img.shields.io/badge/Portfolio-LIVE%20WEBSITE-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b> روی دکمه بالا کلیک کنید</b><br>
+  <b>Click the button above to view full portfolio</b>
+</p>
+
+<p align="center">
+  🌐 Website: https://mtajdary.github.io/konarak-64ha-docs/
+</p>
 
 ---
 

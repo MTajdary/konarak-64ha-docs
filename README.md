@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://mtajdary.github.io/konarak-64ha-docs/">
-    <img src="https://img.shields.io/badge/CLICK%20THE%20BUTTON%20TO%20VIEW%20FULL%20PORTFOLIO-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-LIVE%20WEBSITE-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
